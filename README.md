@@ -2,7 +2,8 @@
 @Author : suzhiwei 
 ### 简要说明：
 >CardSwitch 控件 为图片切换特效控件
->
+
+
 ![image](https://github.com/littlefishwill/cardswitch/blob/master/cradSwitch/src/main/res/drawable-hdpi/demoshow.gif)
 
 ### 使用 方法：
