@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 18
+    buildToolsVersion "19.1.0"
+
+    defaultConfig {
+        applicationId "com.szw.cradswitch"
+        minSdkVersion 14
+        targetSdkVersion 17
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    compileOptions {
+        encoding "GBK"
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:23.2.0'
+    compile files('libs/library_nineoldandroid.jar')
+}
