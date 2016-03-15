@@ -1,4 +1,4 @@
-# cardswitch 自定义控件
+# Android cardswitch 自定义控件
 @Author : suzhiwei 
 ### 简要说明：
 >CardSwitch 控件 为图片切换特效控件
