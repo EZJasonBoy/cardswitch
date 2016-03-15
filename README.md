@@ -2,6 +2,7 @@
 @Author : suzhiwei 
 ### 简要说明：
 >CardSwitch 控件 为图片切换特效控件
+
 >开发此控件时同步录制的视频教程：http://pan.baidu.com/s/1hrmN2ew
 
 
